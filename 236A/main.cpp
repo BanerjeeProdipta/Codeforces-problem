@@ -15,8 +15,6 @@ int main() {
         }
         num = 0;
     }
-    cout<<pas;
-
     if (pas % 2 == 0) {
          cout << "CHAT WITH HER!";
     } else {
